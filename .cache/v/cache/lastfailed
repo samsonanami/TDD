@@ -1,4 +1,3 @@
 {
-  "phone_book_test.py::PhoneAppTestCase::test_add_contact": true, 
-  "test_phone_book.py::PhoneAppTestCase::test_delete_contact": true
+  "phone_book_test.py::PhoneAppTestCase::test_add_contact": true
 }
